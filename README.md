@@ -1,5 +1,9 @@
 # Pair Project
 
+https://github.com/user-attachments/assets/6057d258-6c3f-4245-85af-46d791680740
+
+## Description
+
 This project is a React application built with TypeScript and Vite. It includes a simple user list component that fetches data from an API and allows for searching through the list.
 
 ## Project Structure
